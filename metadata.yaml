@@ -1,0 +1,45 @@
+_repo: Deeds-of-Daring-Done-by-Girls_67647
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gunn, Archie
+    alias: Gunn, Archibald
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '36251'
+    url: http://www.gutenberg.org/2009/agents/36251
+creator:
+  author:
+    agent_name: Moore, N. Hudson
+    alias: Moore, Hannah Hudson
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '44522'
+    url: http://www.gutenberg.org/2009/agents/44522
+description: ''
+gutenberg_issued: '2022-03-18'
+identifiers:
+  gutenberg: '67647'
+  lccn: '06040212'
+language: en
+pgterms:marc904: https://archive.org/details/deedsofdaringdon00moor
+pgterms:marc905: 20190621220634moore
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Frederick A. Stokes Company,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The robe of the Duchess, as told by Jehan, her page in the year of
+  grace 1392 -- The Princess wins (1417) -- Defence of Castle Dangerous (1692) --
+  The pearl necklace (1767) -- Dicey Langston (1787) -- The maid of Zaragoza (1808).
+title: Deeds of Daring Done by Girls
+url: http://www.gutenberg.org/ebooks/67647
